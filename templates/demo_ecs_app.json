@@ -6,7 +6,7 @@
   "containerDefinitions": [
       {
           "name": "demo_ecs_app",
-          "image": "578118235851.dkr.ecr.us-east-2.amazonaws.com/github-learning/demo_ecs_app:latest",
+          "image": "578118235851.dkr.ecr.us-east-2.amazonaws.com/demo_ecs_app/demo_ecs_app:latest",
           "essential": true,
           "cpu": "1024",
           "memory":"2048",
